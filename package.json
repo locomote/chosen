@@ -1,7 +1,7 @@
 {
-  "author": "harvest",
+  "author": "locomote",
   "name": "chosen",
-  "version": "1.6.2",
+  "version": "1.6.3",
   "description": "Chosen is a JavaScript plugin that makes select boxes user-friendly. It is currently available in both jQuery and Prototype flavors.",
   "keywords": [
     "select",
@@ -13,7 +13,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/harvesthq/chosen.git"
+    "url": "https://github.com/locomote/chosen.git"
   },
   "engines": {
     "node": ">=0.4.0"
@@ -59,17 +59,17 @@
     }
   ],
   "license": "MIT",
-  "homepage": "https://harvesthq.github.io/chosen/",
-  "bugs": "https://github.com/harvesthq/chosen/issues",
+  "homepage": "https://github.com/locomote/chosen/",
+  "bugs": "https://github.com/locomote/chosen/issues",
   "_extra": {
     "title": "Chosen",
     "license": {
       "type": "MIT",
-      "url": "https://github.com/harvesthq/chosen/blob/master/LICENSE.md"
+      "url": "https://github.com/locomote/chosen/blob/master/LICENSE.md"
     },
     "links": {
-      "download": "https://github.com/harvesthq/chosen/releases",
-      "docs": "https://harvesthq.github.io/chosen/"
+      "download": "https://github.com/locomote/chosen/releases",
+      "docs": "https://github.com/locomote/chosen/"
     },
     "files": [
       "chosen.jquery.js",
